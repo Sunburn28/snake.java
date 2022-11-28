@@ -19,7 +19,6 @@ public class Snake extends JFrame {
     
     ImagenSnake imagenSnake;
     Point snake;
-    //Point lastSnake;
     Point comida;
     ArrayList<Point> listaPosiciones = new ArrayList<Point>();
 
